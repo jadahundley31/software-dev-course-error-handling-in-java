@@ -37,7 +37,7 @@ public class ExerciseTests {
 
     /**
      * Test the safeDivideWithCustomException method.
-     */
+//     */
     @Test
     public void testSafeDivideWithCustomException() {
         try {
